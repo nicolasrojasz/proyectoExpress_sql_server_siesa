@@ -1,0 +1,9 @@
+class DOCENTES {
+  constructor(CODIGO, NOMBRE, APELLIDOS, COD_ASIGNATURA) {
+    this.CODIGO = CODIGO;
+    this.NOMBRE = NOMBRE;
+    this.APELLIDOS = APELLIDOS;
+    this.COD_ASIGNATURA = COD_ASIGNATURA;
+  }
+}
+export default DOCENTES;
